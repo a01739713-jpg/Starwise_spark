@@ -1,0 +1,4 @@
+producto,unidad,precio_promedio_mxn,costo_unitario_mxn,margen_bruto_pct,entrega_semanas_con_stock,entrega_semanas_sin_stock,nota
+Vajilla,Juego de 6 platos,2400,1320,45.0,2,4,"Supuesto del caso ficticio, no precio de mercado"
+Azulejo,Caja de 1 m²,1600,992,38.0,3,3,"Supuesto del caso ficticio, no precio de mercado"
+Pieza personalizada,Pieza con diseño del cliente,1800,810,55.0,5,5,"Supuesto del caso ficticio, no precio de mercado"

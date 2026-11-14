@@ -1,0 +1,5 @@
+segmento,clientes_activos_T2,clientes_activos_T3,pedidos_T2,pedidos_T3,ticket_promedio_T2_mxn,ticket_promedio_T3_mxn,motivo_reportado
+Restaurantes,14,11,56,36,7500.0,7222.2,La reposición de vajilla tarda; dos restaurantes cambiaron a vajilla industrial
+Hoteles,9,8,30,24,12666.7,12500.0,Piden piezas con su logo y entregas más rápidas
+Bodas,40,30,40,30,7500.0,8000.0,Comparan precio con imitaciones; temporada más baja
+Turistas (tienda),1250,800,1250,800,120.0,125.0,Menos paso peatonal por obras en la calle de la tienda
